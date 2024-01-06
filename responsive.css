@@ -1,0 +1,1123 @@
+@media (max-width: 1100px) {
+  .container {
+    max-width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+  }
+  .header-page {
+    background-size: cover;
+  }
+  .header h2 {
+    font-size: 62px;
+    padding-top: 80px;
+  }
+  .nav-image img {
+    max-width: 220px;
+  }
+  .button-1 {
+    margin-top: 40px;
+  }
+  .circle {
+    max-width: 30px;
+    height: 28px;
+  }
+  .ul-qwerty h2 {
+    font-size: 68px;
+  }
+  .ul-qwerty h3 {
+    font-size: 28px;
+  }
+  .ul-qwerty p {
+    max-width: 85%;
+  }
+  .chiziq {
+    max-width: 330px;
+  }
+  .benefits-page h2 {
+    font-size: 20px;
+    max-width: 100%;
+    margin-left: 15px;
+    padding: 10px;
+  }
+  .benefits-page p {
+    max-width: 100%;
+    padding-left: 20px;
+    margin: 0;
+    font-size: 14px;
+  }
+  .benefits-card img {
+    margin-left: 60px;
+  }
+  .location {
+    padding: 0;
+    gap: 0;
+  }
+  .contact-page {
+    background-image: url("./image/Bitmap\ \(4\).png");
+    background-size: cover;
+    max-width: 100vw;
+    height: 450px;
+    background-position: center center;
+    /* height: 520px; */
+  }
+  .circle-ul-2 h3 {
+    font-size: 20px;
+    max-width: 100%;
+  }
+  .about-heading h1{
+    padding-top: 80px;
+  }
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+@media (max-width: 1053px) {
+  .container {
+    max-width: 985px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+  }
+  .header h2 {
+    font-size: 52px;
+    padding-top: 70px;
+  }
+  .header p {
+    font-size: 14px;
+  }
+  .button-1 {
+    max-width: 200px;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  .header-page {
+    background-image: url("./image/Bitmap\ \(3\).svg");
+    background-size: cover;
+    max-width: 100vw;
+    height: 500px;
+    background-position: center center;
+  }
+  .nav-image img {
+    max-width: 200px;
+  }
+  .section-h1 h1 {
+    max-width: 100%;
+    font-size: 150px;
+  }
+  .espresso-li p {
+    margin-left: 30px;
+  }
+  .about-heading {
+    max-width: 985px;
+  }
+  .main-service {
+    /* display:flex; */
+    gap: 45px;
+  }
+  .about-heading h1{
+    padding-top: 80px;
+  }
+  .about-heading p {
+    font-size: 16px;
+    max-width: 40%;
+    /* padding-left: 40px; */
+  }
+  .about-cofee p {
+    margin-left: 80px;
+    max-width: 70%;
+  }
+  .contact-page {
+    background-image: url("./image/Bitmap\ \(4\).png");
+    background-size: cover;
+    max-width: 100vw;
+    height: 450px;
+    background-position: center center;
+    /* height: 520px; */
+  }
+  .contact-heading h1 {
+    max-width: 100%;
+    text-align: center;
+  }
+  .contact-heading p {
+    margin-left: 80px;
+    max-width: 80%;
+  }
+  .circle-ul-2 h3 {
+    font-size: 20px;
+    max-width: 100%;
+  }
+  .main-work-2 {
+    height: 700px;
+  }
+  .main-work-2 {
+    height: 500px;
+  }
+  .line {
+    max-width: 320px;
+  }
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+@media (max-width: 983px) {
+  .container {
+    max-width: 904px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+  }
+  .header h2 {
+    font-size: 50px;
+    padding-top: 80px;
+  }
+  .header p {
+    font-size: 12px;
+  }
+  .button-1 {
+    max-width: 200px;
+    font-size: 14px;
+  }
+  .header-page {
+    background-image: url("./image/Bitmap\ \(3\).svg");
+    background-size: cover;
+    max-width: 100vw;
+    height: 520px;
+    background-position: center center;
+  }
+  .nav-image img {
+    max-width: 190px;
+  }
+  .main-esspresso {
+    display: inline-block;
+  }
+  .ul-esspresso {
+    display: flex;
+    align-items: center;
+    padding-left: 58px;
+  }
+  .ul-esspresso p {
+    max-width: 60%;
+    text-align: start;
+    margin: 0;
+  }
+  .ul-esspresso h2 {
+    max-width: 30%;
+    text-align: start;
+  }
+  .benefits-color {
+    max-width: 100%;
+  }
+  .main-benefits-2 {
+    display: inline-block;
+  }
+  .benefits-card {
+    max-width: 573px;
+    height: 180px;
+  }
+  .benefits-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 170px;
+
+    padding: 0;
+  }
+
+  .benefits-page h2 {
+    padding: 0;
+  }
+
+  .benefits-color {
+    max-width: 904px;
+  }
+  .circle {
+    max-width: 30px;
+  }
+  .main-benefits-2 {
+    top: 180px;
+  }
+  .ul-qwerty h3 {
+    font-size: 35px;
+    max-width: 70%;
+  }
+  .ul-qwerty p {
+    font-size: 14px;
+    max-width: 85%;
+  }
+  .chiziq {
+    max-width: 300px;
+  }
+  .benefits-page h2 {
+    font-size: 18px;
+    margin-left: 20px;
+  }
+  .benefits-page p {
+    max-width: 80%;
+  }
+  .about-page {
+    background-image: url("./image/Bitmap\ \(2\).png");
+    /* background-size: 100px 200px; */
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    background-position: center center;
+    margin-top: 20px;
+    /* width: 80%; */
+    height: 520px;
+    background-size: cover;
+  }
+  .service-h1 p {
+    max-width: 100%;
+  }
+  .main-service {
+    /* display:flex; */
+    gap: 25px;
+  }
+  .about-heading p {
+    font-size: 14px;
+    max-width: 50%;
+    /* padding-left: 40px; */
+  }
+  .about-cofee p {
+    margin-left: 20px;
+    max-width: 70%;
+  }
+  .about-cofee h2 {
+    padding-left: 20px;
+    max-width: 50%;
+  }
+  .circle-ul-2 h2 {
+    font-size: 65px;
+  }
+  .circle-ul-2 h3 {
+    font-size: 20px;
+    max-width: 100%;
+  }
+  .circle-ul-2 p {
+    font-size: 14px;
+  }
+
+  .line {
+    max-width: 300px;
+  }
+  .main-work-2 {
+    height: 500px;
+  }
+  
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 900px) {
+  .container {
+    max-width: 865px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+  }
+  .header-page {
+    background-image: url("./image/Bitmap\ \(3\).svg");
+    background-size: cover;
+    max-width: 100vw;
+    height: 520px;
+  }
+  .nav-image img {
+    max-width: 180px;
+  }
+  .section-h1 h1 {
+    font-size: 130px;
+  }
+  .benefits-color {
+    max-width: 865px;
+  }
+  .chiziq {
+    max-width: 300px;
+  }
+  .chiziq {
+    max-width: 290px;
+  }
+  .ul-qwerty h2 {
+    font-size: 60px;
+  }
+  .ul-qwerty h3 {
+    font-size: 28px;
+  }
+  .about-page {
+    background-image: url("./image/Bitmap\ \(2\).png");
+    /* background-size: 100px 200px; */
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    background-position: center center;
+    margin-top: 20px;
+    /* width: 80%; */
+    height: 450px;
+    background-size: cover;
+    margin-bottom: 50px;
+  }
+
+
+  .about-heading h1 {
+    padding-top: 80px;
+    padding-left: 85px;
+    font-size: 35px;
+  }
+  .about-heading p {
+    font-size: 17px;
+  }
+  .service-h1 p {
+    max-width: 100%;
+  }
+  .main-service {
+    /* display:flex; */
+    gap: 15px;
+  }
+  .about-heading p {
+    font-size: 14px;
+    max-width: 50%;
+    padding-left: 40px;
+  }
+  .image-cofee {
+    position: absolute;
+    top: -180px;
+    width: 100%;
+    right: 50%;
+    transform: translateX(50%);
+  }
+  .image-cofee img {
+    height: 420px;
+    width: 100%;
+    border-radius: 10px;
+    
+  }
+  .service-h1 p{
+    margin-bottom: 50px;
+  }
+  .service-h1 h2{
+    margin-top: 20px;
+  }
+  .about-cofee h2 {
+    margin-top: 160px;
+    font-size: 32px;
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+  .about-cofee p {
+    font-size: 15px;
+    max-width: 100%;
+    margin: 0;
+  }
+  .about-cofee {
+    margin-left: auto;
+    margin-right: 100px;
+  }
+  .contact-page {
+    background-image: url("./image/Bitmap\ \(4\).png");
+    background-size: cover;
+    max-width: 100vw;
+    height: 450px;
+    background-position: center center;
+    /* height: 520px; */
+  }
+  .circle-ul-2 h3 {
+    font-size: 18px;
+    max-width: 100%;
+  }
+  .circle-ul-2 p {
+    font-size: 14px;
+  }
+  .line {
+    max-width: 250px;
+  }
+  .main-footer {
+    padding-top: 80px;
+  }
+  .main-work-2 {
+    height: 500px;
+  }
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 862px) {
+  .container {
+    max-width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+  }
+  .header-page {
+    background-image: url("./image/Bitmap\ \(3\).svg");
+    background-size: cover;
+    max-width: 100vw;
+    height: 500px;
+    background-position: center center;
+  }
+  .nav-image img {
+    max-width: 170px;
+  }
+  .espresso-li h2 {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .espresso-li p {
+    font-size: 14px;
+  }
+  .section-h1 h1 {
+    font-size: 120px;
+  }
+  .benefits-color {
+    max-width: 780px;
+  }
+  .benefits-card {
+    margin-left: 110px;
+  }
+  .benefits-1 h2 {
+    font-size: 35px;
+  }
+  .benefits-1 p {
+    font-size: 15px;
+  }
+  .circle {
+    width: 31px;
+    height: 25px;
+  }
+  .qwerty-2 {
+    max-width: 776px;
+  }
+  .main-benefits-2 {
+    top: 200px;
+  }
+  .circle {
+    max-width: 26px;
+  }
+  .ul-qwerty h3 {
+    font-size: 20px;
+    max-width: 100%;
+  }
+  .ul-qwerty h2 {
+    font-size: 55px;
+  }
+  .ul-qwerty p {
+    max-width: 100%;
+    font-size: 12.5px;
+  }
+  .chiziq {
+    max-width: 250px;
+  }
+
+  .about-heading p {
+    font-size: 17px;
+    max-width: 55%;
+  }
+  .about-page {
+    background-image: url("./image/Bitmap\ \(2\).png");
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    background-position: center center;
+    margin-top: 20px;
+    height: 450px;
+    background-size: cover;
+  }
+  .service-h1 p {
+    max-width: 100%;
+    padding: 0;
+  }
+  .main-service {
+    display: inline-block;
+    gap: 0;
+  }
+  .service-image img {
+    margin-left: 170px;
+  }
+  .service-h1 h2 {
+    text-align: center;
+  }
+  .about-heading p {
+    font-size: 14px;
+    max-width: 50%;
+    padding-left: 40px;
+  }
+  .contact-page {
+    background-image: url("./image/Bitmap\ \(4\).png");
+    background-size: cover;
+    max-width: 100vw;
+    height: 450px;
+    background-position: center center;
+    /* height: 520px; */
+  }
+  .section-circle {
+    display: none;
+  }
+  .circle-cards {
+    display: inline-block;
+    /* text-align: center; */
+  }
+  .circle-ul-2 {
+    text-align: center;
+  }
+  .circle-ul-2 p {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .circle-ul-2 p {
+    max-width: 50%;
+  }
+  .circle-ul-2 h2 {
+    font-size: 50px;
+  }
+  .circle-ul-2 h2 {
+    margin: 0;
+  }
+  .circle-ul-2 h3 {
+    margin: 0;
+  }
+  .main-work-2 {
+    height: 650px;
+  }
+  .footer-ulimg img {
+    width: 20px;
+  }
+  .footer-nav-list a {
+    font-size: 13px;
+  }
+  .footer-image-2 img {
+    width: 200px;
+  }
+  .header h2 {
+    font-size: 45px;
+  }
+  .button-1 {
+    width: 100px;
+    font-size: 12px;
+    height: 50px;
+  }
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 750px) {
+  .container {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+  }
+  .header-page {
+    background-image: url("./image/Bitmap\ \(3\).svg");
+    background-size: cover;
+    max-width: 100vw;
+    height: 450px;
+    background-position: center center;
+    /* height: 520px; */
+  }
+  .header h2 {
+    font-size: 30px;
+    padding-top: 80px;
+  }
+  .header p {
+    font-size: 12px;
+    max-width: 60%;
+  }
+  .button-1 {
+    max-width: 180px;
+    font-size: 12px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 55px;
+  }
+  .header h2 {
+    font-size: 32px;
+    padding-top: 70px;
+    max-width: 50%;
+    padding-left: 20;
+    padding-left: 55px;
+  }
+  .header p {
+    font-size: 10px;
+    margin-left: 0;
+    max-width: 40%;
+    padding-left: 55px;
+  }
+  .nav-image img {
+    max-width: 160px;
+  }
+  .section-h1 h1 {
+    font-size: 100px;
+  }
+  
+  .espresso-li h2 {
+    font-size: 15px;
+    line-height: 15px;
+  }
+  .espresso-li p {
+    font-size: 12px;
+    line-height: 14px;
+  }
+  .espresso-li img {
+    width: 220px;
+    height: 163px;
+  }
+  .main-benefits-2 {
+    display: inline-block;
+  }
+  .benefits-card {
+    max-width: 573px;
+    height: 180px;
+  }
+  .benefits-card {
+    display: flex;
+  }
+  .benefits-page h2 {
+    padding: 0;
+  }
+  .benefits-card {
+    margin-left: 60px;
+  }
+  .benefits-color {
+    max-width: 650px;
+  }
+  .benefits-card {
+    max-width: 480px;
+    margin-left: 80px;
+  }
+  .benefits-card img {
+    max-width: 56px;
+    height: 56px;
+  }
+  .circle {
+    width: 30px;
+    height: 25px;
+  }
+  .chiziq {
+    max-width: 210px;
+    border-radius: 0px;
+  }
+  .ul-qwerty h3 {
+    font-size: 18px;
+  }
+
+  .about-heading p {
+    font-size: 14px;
+    max-width: 50%;
+    padding-left: 40px;
+  }
+  .about-page {
+    background-image: url("./image/Bitmap\ \(2\).png");
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    background-position: center center;
+    margin-top: 20px;
+    height: 450px;
+    background-size: cover;
+  }
+  .service-image img {
+    margin-left: 100px;
+  }
+  .image-cofee img {
+    max-width: 390px;
+    height: 380px;
+  }
+  .about-cofee {
+    margin-left: 80px;
+    margin-right: auto;
+  }
+  .map-ul h3 {
+    font-size: 23px;
+  }
+  .map-ul p {
+    font-size: 14px;
+  }
+  .contact-heading h1 {
+    max-width: 100%;
+    text-align: center;
+    /* padding-left: 0; */
+  }
+  .contact-heading p {
+    margin-left: 0;
+    max-width: 100%;
+    padding-left: 0;
+    text-align: center;
+  }
+  .circle-ul-2 h2 {
+    margin: 0;
+  }
+  .circle-ul-2 h3 {
+    margin: 0;
+  }
+  .main-work-2 {
+    height: 800px;
+  }
+  .footer-image-2 img {
+    width: 170px;
+  }
+
+  
+
+  /* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+  @media (max-width: 690px) {
+    .container {
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top: 40px;
+    }
+     
+
+    .nav-image img {
+      max-width: 150px;
+    }
+    .main-nav-2 a {
+      font-size: 12px;
+    }
+    .section-h1 h1 {
+      font-size: 80px;
+    }
+    .espresso-li h2 {
+      font-size: 10px;
+      line-height: 18px;
+    }
+    .espresso-li p {
+      font-size: 8px;
+      line-height: 8px;
+    }
+    .espresso-li img {
+      width: 200px;
+      height: 143px;
+    }
+    .benefits-color {
+      max-width: 500px;
+    }
+    .benefits-card {
+      margin-left: 20px;
+    }
+
+    .chiziq {
+      max-width: 180px;
+    }
+    .ul-qwerty h2 {
+      font-size: 50px;
+    }
+    .ul-qwerty h3 {
+      font-size: 14px;
+      max-width: 100%;
+      line-height: 15px;
+    }
+    .ul-qwerty p {
+      font-size: 10px;
+      max-width: 100%;
+      line-height: 15px;
+    }
+
+    .header p {
+      line-height: 15px;
+    }
+
+    .main-circle {
+      display: none;
+    }
+    .header-page {
+      background-image: url("./image/Bitmap\ \(3\).svg");
+      background-size: cover;
+      max-width: 100vw;
+      height: 100vw;
+      background-position: center left;
+      /* height: 520px; */
+    }
+    .header-page {
+      background-image: url("./image/Bitmap\ \(3\).svg");
+      background-size: cover;
+      max-width: 100vw;
+      height: 450px;
+      background-position: center center;
+      /* height: 520px; */
+    }
+    .service-image img {
+      margin-left: 30px;
+    }
+    .image-cofee img {
+      max-width: 350px;
+      height: 350px;
+      margin-left: 50px;
+    }
+    .about-cofee h2 {
+      margin-top: 90px;
+      font-size: 28px;
+    }
+    .about-cofee p {
+      font-size: 14px;
+    }
+    .map-ul h3 {
+      font-size: 20px;
+    }
+    .main-map {
+      display: inline-block;
+      text-align: center;
+      margin-left: 180px;
+    }
+    .map-ul {
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .car {
+      text-align: center;
+    }
+    .contact-heading h1 {
+      max-width: 80%;
+      text-align: center;
+    }
+    .contact-heading p {
+      margin-left: 0;
+      padding-left: 20px;
+      max-width: 100%;
+    }
+    .circle-ul-2 h2 {
+      margin: 0;
+    }
+    .circle-ul-2 h3 {
+      margin: 0;
+    }
+    .main-work-2 {
+      height: 800px;
+    }
+
+    .footer-nav-list {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 0;
+    }
+    .about-heading p {
+      max-width: 100%;
+      margin: 0;
+      text-align: center;
+      padding-left: 0;
+    }
+    .about-heading h1 {
+      text-align: center;
+      margin: 0;
+      padding-left: 0;
+    }
+    .button-01 {
+      max-width: 120px;
+      height: 30px;
+      font-size: 12px;
+    }
+    .container-4 {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    .footer-media-list {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      margin-left: 40px;
+    }
+    .footer-nav-list {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 0;
+    }
+  }
+}
+/* //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 690px) {
+  .container {
+    max-width: 400px;
+  }
+  .header-page {
+    background-image: url("./image/Bitmap\ \(3\).svg");
+    background-size: cover;
+    max-width: 100vw;
+    height: 450px;
+    background-position: center center;
+  }
+  .header h2 {
+    font-size: 20px;
+  }
+  .header p {
+    font-size: 8px;
+  }
+  .button-1 {
+    max-width: 150px;
+    height: 30px;
+    font-size: 10px;
+    margin-top: 10px;
+  }
+  .espresso-li h2 {
+    font-size: 6px;
+    line-height: 2;
+  }
+  .section-h1 h1 {
+    font-size: 60px;
+  }
+  .espresso-li img {
+    width: 180px;
+    height: 123px;
+  }
+  .espresso-li p {
+    font-size: 6px;
+    padding: 0;
+    line-height: 2;
+  }
+  .benefits-card {
+    display: inline-block;
+    align-items: center;
+    max-width: 279px;
+    height: 382px;
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .benefits-color {
+    max-width: 400px;
+  }
+  .main-benefits-4 {
+    margin-left: 60px;
+  }
+  .benefits-card img {
+    max-width: 72px;
+    height: 72px;
+    margin-left: 100px;
+  }
+  .benefits-card h2 {
+    text-align: center;
+    margin-top: 15px;
+    margin: 0;
+  }
+  .benefits-card p {
+    margin-top: 20px;
+  }
+  .benefits-1 p {
+    max-width: 80%;
+    font-size: 12px;
+  }
+  .qwerty {
+    margin-top: 900px;
+    text-align: center;
+  }
+  .qwerty-2 {
+    display: inline-block;
+    text-align: center;
+  }
+  .ul-qwerty p {
+    max-width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .chiziq {
+    max-width: 0px;
+  }
+  .circle {
+    max-width: 0px;
+    height: 0px;
+  }
+  .footer-left-box {
+    display: inline-block;
+    gap: 0;
+  }
+  .container-4 {
+    display: flex;
+    justify-content: center;
+  }
+
+  .footer-media-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 40px;
+  }
+  .footer-nav-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0;
+  }
+  .footer-nav-list a {
+    margin-left: 60px;
+  }
+
+  .footer-image-2 img {
+    margin-left: 60px;
+  }
+
+  .footer-media-list img {
+    margin-left: 10px;
+    padding-bottom: 10px;
+    padding-top: ;
+  }
+  .footer-image-2 img {
+    padding-top: 15px;
+  }
+  .header-page {
+    background-image: url("./image/Bitmap\ \(3\).svg");
+    background-size: cover;
+    max-width: 100%;
+    height: 450px;
+    background-position: center center;
+    /* height: 520px; */
+  }
+  .service-image img {
+    margin-left: 0px;
+    max-width: 100%;
+    height: 450px;
+    border-radius: 10px;
+  }
+  .about-heading p {
+    max-width: 100%;
+  }
+  .image-cofee img {
+    margin-top: 100px;
+    max-width: 300px;
+    height: 300px;
+    margin-left: 50px;
+  }
+  .about-cofee h2 {
+    margin-top: 60px;
+    font-size: 28px;
+  }
+  .about-cofee p {
+    font-size: 14px;
+    margin-left: 0;
+    text-align: center;
+  }
+  .map-ul h3 {
+    font-size: 20px;
+  }
+  .main-map {
+    display: inline-block;
+    text-align: center;
+    margin-left: 130px;
+  }
+  .map-ul {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .car {
+    text-align: center;
+  }
+  .service-h1 h2 {
+    margin-top: 50px;
+  }
+  .circle-ul-2 p {
+    max-width: 80%;
+  }
+  .circle-ul-2 h2 {
+    margin: 0;
+  }
+  .circle-ul-2 h3 {
+    margin: 0;
+  }
+  
+  .button-01 {
+    max-width: 100px;
+    height: 30px;
+    font-size: 12px;
+    margin-left: 60px;
+  }
+    .about-cofee p {
+   margin: 0;
+   margin-right: 70px;
+  }
+}
+
+
